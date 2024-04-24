@@ -1,12 +1,41 @@
-## Hi there 👋
+# Welcome to Ichibytes! 🚀
 
-<!--
+![GitHub followers](https://img.shields.io/github/followers/ezequiel-migueles?label=Follow%20Ezequiel%20Migueles&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ichi_bytes?style=social)](https://twitter.com/ichi_bytes)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/in/ezequielmigueles/)
 
-**Here are some ideas to get you started:**
+## About
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Ichibytes is the personal GitHub organization of Ezequiel Migueles, a passionate software engineer and content creator. Here you'll find various projects related to software development, technology, and more!
+
+<!-- ## Projects
+
+### Project 1: [Project Name](link-to-project)
+Description of the project.
+
+### Project 2: [Project Name](link-to-project)
+Description of the project.
+
+### Project 3: [Project Name](link-to-project)
+Description of the project. -->
+
+## Contributions
+
+Contributions and suggestions are welcome! If you're interested in collaborating on any project or have ideas for new ones, feel free to reach out.
+
+## Get in Touch
+
+📧 Email: [info@ichibytes.dev](mailto:info@ichibytes.dev)  
+🐦 Twitter: [@ichi_bytes](https://twitter.com/ichi_bytes)  
+💼 LinkedIn: [Ezequiel Migueles](https://www.linkedin.com/in/ezequielmigueles/)  
+
+## Support
+
+If you find any of my projects useful, consider supporting me:
+
+💖 [Buy me a coffee](https://buymeacoffee.com/ichibytes)  
+🌟 Star my repositories on GitHub  
+
+## License
+
+This organization and its projects are licensed under the [GNU General Public License v3.0](LICENSE).
