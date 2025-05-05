@@ -24,7 +24,7 @@ Contributions and suggestions are welcome! If you're interested in collaborating
 
 ## Get in Touch
 
-📧 Email: [info@ichibytes.dev](mailto:info@ichibytes.dev)
+📧 Email: [info@ichibytes.dev](mailto:info@ichibytes.dev)  
 💼 LinkedIn: [Ezequiel Migueles](https://www.linkedin.com/in/ezequielmigueles/)  
 
 ## Support
