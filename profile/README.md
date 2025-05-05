@@ -1,7 +1,6 @@
 # Welcome to Ichibytes! 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/ezequiel-migueles?label=Follow%20Ezequiel%20Migueles&style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ichi_bytes?style=social)](https://twitter.com/ichi_bytes)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/in/ezequielmigueles/)
 
 ## About
